@@ -18,7 +18,7 @@ const services = [
 
 const projects = [
   {
-    name: 'Foundry Row',
+    name: 'Foundry Row1',
     type: 'Mixed-use shell',
     detail: '142,000 sq ft delivered in three weather-tight phases.',
   },
